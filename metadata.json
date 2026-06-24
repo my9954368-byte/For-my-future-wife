@@ -1,0 +1,6 @@
+{
+  "name": "To My Future Wife",
+  "description": "A beautifully animated, highly polished romantic dedication card and love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
